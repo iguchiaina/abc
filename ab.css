@@ -1,11 +1,12 @@
 h1{
-    color: red;
-    font-size: 64px;
+    color: black;
+    font-weight: 1000;
+    font-size: 50px;
+    border-left: solid;
 }
 p{
-    color: blue;
-    font-size: 32px;
+    font-size: 20px;
 }
-black-stme{
-    color: black;
+td{
+    font-size: 10px;
 }
